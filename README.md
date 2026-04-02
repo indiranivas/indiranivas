@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffaa,100:00c8ff&height=200&section=header&text=Nivas&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer&descAlignY=60&descAlign=50&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffaa,100:00c8ff&height=200&section=header&text=Indira%20Nivas&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20B.Tech%20AI%20%26%20Data%20Science&descAlignY=60&descAlign=50&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;NLP+%7C+Scikit-Learn+%7C+TF-IDF;Flask+Developer+%F0%9F%90%8D;Building+AI+Systems+That+Matter;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;BioBERT+%7C+Neo4j+%7C+Knowledge+Graphs;NLP+%7C+OCR+%7C+Data+Science;IoT+%7C+Hackathon+Winner+%F0%9F%8F%86;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indira-nivas/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indiranivas123@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FFAA?style=for-the-badge&logo=vercel&logoColor=black)](http://indiranivas.pythonanywhere.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-indira--nivas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indira-nivas)
+[![Email](https://img.shields.io/badge/Email-indiranivas123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indiranivas123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-indiranivas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indiranivas)
 [![Profile Views](https://komarev.com/ghpvc/?username=indiranivas&label=Profile+Views&color=00ffaa&style=for-the-badge)](https://github.com/indiranivas)
+
+📍 Namakkal, Tamil Nadu, India &nbsp;|&nbsp; 🎓 B.Tech AI & Data Science (2022–2026) &nbsp;|&nbsp; 🏆 Googlethon Hackathon Winner
 
 </div>
 
@@ -18,53 +20,139 @@
 ## 🧠 About Me
 
 ```python
-class NivasAIEngineer:
+class IndiraNivas:
     def __init__(self):
-        self.name        = "Nivas"
-        self.role        = "Software Engineer Trainee @ LevelShift"
-        self.location    = "India 🇮🇳"
-        self.focus       = ["Machine Learning", "NLP", "AI Systems", "Data Analysis"]
-        self.languages   = ["Python 🐍", "SQL", "HTML"]
-        self.goal        = "Become a full-fledged AI Engineer 🚀"
+        self.name        = "Indira Nivas"
+        self.location    = "Namakkal, Tamil Nadu, India 🇮🇳"
+        self.education   = "B.Tech AI & Data Science @ CIT, Coimbatore (CGPA: 7.43)"
+        self.focus       = ["AI Systems", "Knowledge Graphs", "NLP", "OCR", "IoT"]
+        self.tools       = ["BioBERT", "Neo4j", "Scikit-Learn", "Tableau", "Power BI"]
+        self.achievement = "🏆 1st Place — Googlethon Hackathon 2024 (Google DSC of CIT)"
+        self.goal        = "Build AI systems that solve real-world problems 🚀"
 
-    def current_work(self):
+    def experience(self):
         return [
-            "🔥 Building an NLP-powered AI Resume Matcher",
-            "📊 Developing a Training Analytics Dashboard",
-            "🤖 Exploring ML model optimization techniques",
+            "🏥 AI Intern @ iCliniq — BioBERT + Neo4j Medical Recommendation System",
+            "🌏 OCR Intern @ USIM Malaysia — Medical Report Data Extraction",
         ]
 
     def philosophy(self):
         return "Build projects. Show proof. Let your work speak. 💬"
 
-me = NivasAIEngineer()
+me = IndiraNivas()
 ```
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## 💼 Professional Experience
+
+### 🏥 Intern — AI Powered Knowledge Graph for Medical Query Analysis
+**iCliniq &nbsp;·&nbsp; Coimbatore, India &nbsp;·&nbsp; 2024 – 2025**
+
+- 🧬 Built an **AI-based medical recommendation system** using **BioBERT** and **Neo4j** knowledge graphs
+- 🔍 Extracted symptoms from patient queries and predicted **diseases & specialist recommendations**
+- 📈 Achieved **30% improvement in accuracy** across **1,000+ disease-symptom relationships**
+- 🕸️ Designed graph-based reasoning pipelines: Symptoms → Diseases → Specialists
+
+---
+
+### 🌏 Intern — OCR and Database Management of Medical Reports
+**Universiti Sains Islam Malaysia (USIM) &nbsp;·&nbsp; Nilai, Malaysia &nbsp;·&nbsp; July 2024**
+
+- 🖨️ Developed **OCR modules** to extract structured data from medical reports
+- 🗃️ Improved **data retrieval efficiency** via structured database integration
+- 🌐 International internship — cross-border healthcare data workflows
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Duration | CGPA |
+|---|---|---|---|
+| 🎓 B.Tech — Artificial Intelligence & Data Science | Coimbatore Institute of Technology | 2022 – 2026 | **7.43** |
+
+</div>
+
+---
+
+## 🚀 Projects
+
+### 🔬 AI-Powered Medical Recommendation System Using Knowledge Graphs
+
+| | |
+|---|---|
+| 🧠 **NLP Model** | BioBERT (biomedical symptom extraction) |
+| 🕸️ **Graph DB** | Neo4j — 1,000+ disease-symptom relationships |
+| 📈 **Impact** | 30% accuracy improvement |
+| 🔧 **Stack** | Python · BioBERT · Neo4j · NLP · Knowledge Graphs |
+
+```
+Patient Query ──► BioBERT Extraction ──► Neo4j Graph Traversal ──► Disease & Specialist Prediction
+```
+
+---
+
+### 🚗 Vehicle Crash Detection & Emergency Alert System
+
+| | |
+|---|---|
+| 📡 **Tech** | FR Module · IoT · Embedded Systems |
+| ⏱️ **Impact** | Reduced accident response time by **40%** |
+| 🏆 **Award** | **1st Place** — Googlethon Hackathon 2024 |
+| 🎯 **Goal** | Broadcast distress signals without cellular coverage |
+
+---
+
+### 🛣️ Speed Limit Automation System
+
+| | |
+|---|---|
+| 🔧 **Tech** | FR Module · IoT · Vehicle Systems |
+| 📈 **Impact** | **25% increase** in safety compliance |
+| 🎯 **Goal** | Auto-control vehicle speed in variable-speed zones |
+
+---
+
+### 🔥 AI Resume Matcher
+
+| | |
+|---|---|
+| 🧠 **Algorithm** | TF-IDF Vectorization + Cosine Similarity |
+| 🔧 **Stack** | Python · Flask · Scikit-Learn |
+| 🌐 **Live** | [levelshift-mini-project.onrender.com](https://levelshift-mini-project.onrender.com) |
+
+---
+
+## ⚙️ Tech Stack
 
 <div align="center">
 
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🤖 Machine Learning & Data Science
+### 🤖 AI / ML / NLP
+![BioBERT](https://img.shields.io/badge/BioBERT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🕸️ Knowledge Graphs & Databases
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📊 Visualization & BI
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🌐 Web & Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Dev Tools
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -74,69 +162,14 @@ me = NivasAIEngineer()
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Awards & Certifications
 
 <div align="center">
 
-### 🔥 AI Resume Matcher
-> *Intelligent NLP-powered job-matching system*
-
-</div>
-
-| Feature | Details |
+| 🏅 | Details |
 |---|---|
-| 🧠 **Algorithm** | TF-IDF Vectorization + Cosine Similarity |
-| 🔧 **Stack** | Python · Flask · Scikit-Learn · NLP |
-| 🎯 **Goal** | Match resumes to job descriptions with precision |
-| 🌐 **Live Demo** | [levelshift-mini-project.onrender.com](https://levelshift-mini-project.onrender.com) |
-
-**How it works:**
-1. 📄 Resume text is extracted and cleaned
-2. 🔢 TF-IDF transforms text into feature vectors
-3. 📐 Cosine similarity scores each resume-job pair
-4. ✅ Top matches are ranked and displayed
-
----
-
-<div align="center">
-
-### 📊 Training Analytics Dashboard
-> *Business intelligence tool for organizational training data*
-
-</div>
-
-| Feature | Details |
-|---|---|
-| 📈 **Analytics** | BU-wise & Department-level performance metrics |
-| 🤖 **AI Layer** | AI-powered insights generation |
-| 🔧 **Stack** | Flask · MySQL · Chart.js |
-| 🎯 **Goal** | Enable data-driven training decisions |
-
-**Key Capabilities:**
-- 📊 Real-time visual dashboards
-- 🏢 Department & Business Unit breakdowns
-- 🧠 AI-generated narrative insights
-- 🗃️ MySQL-backed data persistence
-
----
-
-## 🧠 ML Focus Areas
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                         ML EXPERTISE MAP                                │
-├───────────────────┬───────────────────┬──────────────────┬──────────────┤
-│  Supervised       │  Feature          │  Model           │  NLP         │
-│  Learning         │  Engineering      │  Evaluation      │              │
-├───────────────────┼───────────────────┼──────────────────┼──────────────┤
-│ • Classification  │ • TF-IDF          │ • Accuracy       │ • Text       │
-│ • Regression      │ • Vectorization   │ • Precision /    │   Cleaning   │
-│ • Decision Trees  │ • Normalization   │   Recall         │ • Similarity │
-│ • Logistic Reg.   │ • Encoding        │ • F1-Score       │   Scoring    │
-└───────────────────┴───────────────────┴──────────────────┴──────────────┘
-```
+| 🥇 **Googlethon Hackathon — 1st Place** | Google Developer Student Club, CIT · May 2024 · IoT vehicle distress alert system |
+| 📜 **Business Intelligence & Analytics** | NPTEL · Score: **81%** |
 
 </div>
 
@@ -149,29 +182,9 @@ me = NivasAIEngineer()
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=indiranivas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffaa&icon_color=00c8ff&text_color=e8f0fe"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indiranivas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffaa&text_color=e8f0fe"/>
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=indiranivas&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffaa&fire=00c8ff&currStreakLabel=00ffaa" />
 
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-[![indiranivas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=indiranivas&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffaa&line=00c8ff&point=ffffff)](https://github.com/indiranivas)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=indiranivas&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffaa&line=00c8ff&point=ffffff)](https://github.com/indiranivas)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=indiranivas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/indiranivas)
 
@@ -179,12 +192,12 @@ me = NivasAIEngineer()
 
 ---
 
-## 📅 What I'm Doing Now
+## 🎯 Interests
 
-- 🧪 **Learning** — Deep Learning fundamentals (Neural Networks, CNNs)
-- 🛠️ **Building** — Improving AI Resume Matcher with better ranking logic
-- 📖 **Reading** — Research papers on semantic similarity & embeddings
-- 🎯 **Goal** — Land an AI/ML Engineer role in 2025
+- 🤖 AI, NLP, Knowledge Graphs & real-world ML systems
+- 📊 Data analytics, business intelligence & performance trends
+- 🌐 Cross-cultural tech collaboration (interned in Malaysia!)
+- 📚 East Asian Comics (manga/manhwa enthusiast!)
 
 ---
 
@@ -202,11 +215,11 @@ me = NivasAIEngineer()
 
 <div align="center">
 
-If you're working on something interesting in AI/ML, or have an opportunity to discuss — my inbox is always open!
+Open to AI/ML roles, research collaborations, or just a good tech conversation!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://indiranivas.pythonanywhere.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indiranivas123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indiranivas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indira-nivas)
+[![Gmail](https://img.shields.io/badge/Gmail-indiranivas123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indiranivas123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-indiranivas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indiranivas)
 
 </div>
 
@@ -216,6 +229,6 @@ If you're working on something interesting in AI/ML, or have an opportunity to d
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:00ffaa&height=120&section=footer&animation=fadeIn" />
 
-*⭐ If you find my work useful, consider giving a star to my repositories!*
+*⭐ Star my repos if you find them useful — it motivates me to build more!*
 
 </div>
