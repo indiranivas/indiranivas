@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffaa,100:00c8ff&height=200&section=header&text=Indira%20Nivas&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20B.Tech%20AI%20%26%20Data%20Science&descAlignY=60&descAlign=50&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffaa,100:00c8ff&height=200&section=header&text=Indira%20Nivas&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20Engineer%20-%20B.Tech%20AI%20and%20Data%20Science&descAlignY=60&descAlign=50&descSize=20" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;BioBERT+%7C+Neo4j+%7C+Knowledge+Graphs;NLP+%7C+OCR+%7C+Data+Science;IoT+%7C+Hackathon+Winner+%F0%9F%8F%86;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
