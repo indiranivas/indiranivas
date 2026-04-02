@@ -184,7 +184,7 @@ Patient Query ──► BioBERT Extraction ──► Neo4j Graph Traversal ─�
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=indiranivas&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffaa&line=00c8ff&point=ffffff)](https://github.com/indiranivas)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=indiranivas)
+
 
 </div>
 
