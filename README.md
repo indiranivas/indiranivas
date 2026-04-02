@@ -181,9 +181,11 @@ Patient Query ──► BioBERT Extraction ──► Neo4j Graph Traversal ─�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=indiranivas&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=indiranivas&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indiranivas&layout=compact&theme=tokyonight" height="180"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indiranivas&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -193,7 +195,11 @@ Patient Query ──► BioBERT Extraction ──► Neo4j Graph Traversal ─�
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=indiranivas&theme=tokyonight&column=6)](https://github.com/indiranivas)
+<img src="https://github-readme-stats.vercel.app/api?username=indiranivas&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indiranivas&layout=compact&theme=tokyonight" />
 
 </div>
 
