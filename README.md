@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-indira--nivas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indira-nivas)
 [![Email](https://img.shields.io/badge/Email-indiranivas123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indiranivas123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-indiranivas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indiranivas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FFAA?style=for-the-badge&logo=vercel&logoColor=black)](http://indiranivas.pythonanywhere.com/)
 [![Profile Views](https://komarev.com/ghpvc/?username=indiranivas&label=Profile+Views&color=00ffaa&style=for-the-badge)](https://github.com/indiranivas)
 
 📍 Namakkal, Tamil Nadu, India &nbsp;|&nbsp; 🎓 B.Tech AI & Data Science (2022–2026) &nbsp;|&nbsp; 🏆 Googlethon Hackathon Winner
