@@ -179,14 +179,23 @@ Patient Query ──► BioBERT Extraction ──► Neo4j Graph Traversal ─�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=indiranivas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffaa&icon_color=00c8ff&text_color=e8f0fe"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indiranivas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffaa&text_color=e8f0fe"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=indiranivas&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indiranivas&layout=compact&theme=tokyonight" height="180"/>
+
+</div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=indiranivas&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffaa&fire=00c8ff&currStreakLabel=00ffaa" />
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=indiranivas&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffaa&line=00c8ff&point=ffffff)](https://github.com/indiranivas)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=indiranivas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/indiranivas)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=indiranivas&theme=tokyonight&column=6)](https://github.com/indiranivas)
+
+</div>
 
 </div>
 
