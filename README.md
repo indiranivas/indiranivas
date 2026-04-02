@@ -25,7 +25,7 @@ class IndiraNivas:
     def __init__(self):
         self.name        = "Indira Nivas"
         self.location    = "Namakkal, Tamil Nadu, India 🇮🇳"
-        self.education   = "B.Tech AI & Data Science @ CIT, Coimbatore (CGPA: 7.43)"
+        self.education   = "B.Tech AI & Data Science @ CIT, Coimbatore "
         self.focus       = ["AI Systems", "Knowledge Graphs", "NLP", "OCR", "IoT"]
         self.tools       = ["BioBERT", "Neo4j", "Scikit-Learn", "Tableau", "Power BI"]
         self.achievement = "🏆 1st Place — Googlethon Hackathon 2024 (Google DSC of CIT)"
