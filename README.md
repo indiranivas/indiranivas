@@ -119,7 +119,7 @@ me = IndiraNivas()
 
 | Degree | Institution | Duration | CGPA |
 |---|---|---|---|
-| 🎓 B.Tech — Artificial Intelligence & Data Science | Coimbatore Institute of Technology | 2022 – 2026 | **7.43** |
+| 🎓 B.Tech — Artificial Intelligence & Data Science | Coimbatore Institute of Technology | 2022 – 2026 | **7.51** |
 
 </div>
 
