@@ -33,9 +33,10 @@ class IndiraNivas:
 
     def experience(self):
         return [
-            "🏥 AI Intern @ iCliniq — BioBERT + Neo4j Medical Recommendation System",
-            "🌏 OCR Intern @ USIM Malaysia — Medical Report Data Extraction",
-        ]
+    "💼 Software Engineer Trainee @ LevelShift — Building AI systems, data science solutions, and end-to-end ML pipelines",
+    "🏥 AI Intern @ iCliniq — Developed BioBERT + Neo4j medical recommendation system",
+    "🌏 OCR Intern @ USIM Malaysia — Built medical report data extraction pipeline",
+    ]
 
     def philosophy(self):
         return "Build projects. Show proof. Let your work speak. 💬"
